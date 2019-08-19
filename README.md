@@ -1,0 +1,1 @@
+# This is code practice for jiu zhang: https://www.lintcode.com/ladder/1
